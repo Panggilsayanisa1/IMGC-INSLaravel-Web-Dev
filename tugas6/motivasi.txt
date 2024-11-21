@@ -1,0 +1,4 @@
+Hay namaku nisa, motivasiku mengikuti kelas laravel ini adalah tentunya untuk belajar mengenai framework PHP yaitu laravel apalagi laravel masih awam dipendegaranku
+dan tujuan kedua yaitu karena untuk mengerjakan proyek akhir magangku yang menggunakan bahasa laravel.
+
+Harapanku semoga dengan mengikuti bootcamp laravel ini, bisa bertambahnya ilmu ku tentang framework laravel dan tentunya proyek akhir magangku bisa terselesaikan tepat waktu.
